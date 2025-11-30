@@ -1,3 +1,12 @@
+# IMPORTANT: Project Discontinued
+
+**This repository is no longer maintained and will be made private in the future.**
+
+It is unfortunate that the malicious actions of a few have ruined this open source project for everyone else.
+**Since my intention is to help developers, not to assist fraudsters, I have decided to shut this repository down.**
+
+---
+
 # OrientationFaker
 
 [![license](https://img.shields.io/github/license/ohmae/orientation-faker.svg)](./LICENSE)
